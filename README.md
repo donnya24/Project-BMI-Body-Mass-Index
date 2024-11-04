@@ -1,7 +1,7 @@
 # Poster
 ![Home (1)](https://github.com/user-attachments/assets/1a8ae535-beb7-4abd-9b4b-1d4b0da23275)
 
-# Project Flutter BMI Kelompok11
+# Project Flutter BMI Kelompok 11
 Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghitung dan memahami indeks massa tubuh (BMI) mereka. Aplikasi ini memiliki berbagai fitur untuk memberikan pengalaman pengguna yang interaktif dan informatif.
 
 # Fitur Utama :
