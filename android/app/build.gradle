@@ -1,0 +1,70 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'dev.flutter.flutter-gradle-plugin'
+    id 'com.google.gms.google-services' // Plugin Google Services
+}
+
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file('key.properties')
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
+android {
+    namespace = "com.mycompany.bmiapp"
+    compileSdk = 34 // API 34
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17 // Java 17
+        targetCompatibility = JavaVersion.VERSION_17 // Java 17
+    }
+
+    kotlinOptions {
+        jvmTarget = '17' // Targeting Java 17
+    }
+
+    defaultConfig {
+        applicationId = "com.mycompany.bmiapp"
+        minSdk = 23 // Minimum SDK version
+        targetSdk = 34 // Target SDK version
+        versionCode = 1
+        versionName = "1.0"
+    }
+
+    signingConfigs {
+    release {
+        storeFile file('D:#KULIAH/SEMESTER 3/PEMROGRAMAN MOBILE/PROJECT BMI APPS/KEY/bmi_mobile.jks')
+        storePassword 'kelompok11'
+        keyAlias 'bmi_app'
+        keyPassword 'kelompok11'
+    }
+}
+
+
+    buildTypes {
+        release {
+            minifyEnabled true // Enable code shrinking for release builds
+            shrinkResources true // Remove unused resources
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig = signingConfigs.debug
+            signingConfig = signingConfigs.release
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+dependencies {
+    // Using Firebase BoM for consistent versions
+    implementation platform('com.google.firebase:firebase-bom:32.1.0') // Updated Firebase BoM version
+
+    // Add desired Firebase products
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-auth'
+    implementation("com.google.android.material:material:1.4.0")
+
+    // No need to add firebase-core separately
+}
