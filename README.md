@@ -46,6 +46,7 @@ Aplikasi BMI bertujuan untuk membantu pengguna memahami kondisi kesehatan mereka
 
 Project ini dibuat untuk memenuhi penugasan mata kuliah Pemrograman Mobile
 Prodi S1 Pendidikan Teknologi Informasi https://sindig.unesa.ac.id/kurikulum/s1-pendidikan-teknologi-informasi
+Fakultas Teknik https://ft.unesa.ac.id/
 Universitas Negeri Surabaya https://unesa.ac.id/
 
 # View Application
