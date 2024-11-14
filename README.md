@@ -25,9 +25,9 @@ Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghi
 3.	Donny Andika Kurniawan 	 (23050974024)
 
 # Info lebih lanjut tentang Program Studi
-Prodi S1 Pendidikan Teknologi Informasi : https://sindig.unesa.ac.id/kurikulum/s1-pendidikan-teknologi-informasi
-Fakultas Teknik : https://ft.unesa.ac.id/
-Universitas Negeri Surabaya : https://unesa.ac.id/
+- Prodi S1 Pendidikan Teknologi Informasi : https://sindig.unesa.ac.id/kurikulum/s1-pendidikan-teknologi-informasi
+- Fakultas Teknik : https://ft.unesa.ac.id/
+- Universitas Negeri Surabaya : https://unesa.ac.id/
 
 # Tampilan Aplikasi
 ![Screenshot 2024-11-05 012200](https://github.com/user-attachments/assets/69e4d5df-1984-41eb-b700-b3559e159e0c)
