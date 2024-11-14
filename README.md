@@ -23,7 +23,8 @@ Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghi
 1.	Lana Zelda Savitri Santoso	 (23050974018)
 2.	Nabila Putri Febianti	 (23050974020)
 3.	Donny Andika Kurniawan 	 (23050974024)
-   
+
+# Info lebih lanjut tentang Program Studi
 Prodi S1 Pendidikan Teknologi Informasi : https://sindig.unesa.ac.id/kurikulum/s1-pendidikan-teknologi-informasi
 Fakultas Teknik : https://ft.unesa.ac.id/
 Universitas Negeri Surabaya : https://unesa.ac.id/
