@@ -9,15 +9,11 @@ Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghi
 # Tujuan Aplikasi BMI
 1. Aplikasi ini bertujuan untuk membantu pengguna memahami indeks massa tubuh (BMI) pengguna, sehingga dapat memberikan wawasan mengenai status kesehatan mereka terkait berat badan.
 2. Aplikasi ini dirancang untuk mendorong pengguna untuk memiliki gaya hidup sehat dengan menyediakan rekomendasi terkait BMI mereka.
-3. Mempermudah pengguna dalam menghitung BMI secara cepat dan akurat, tanpa harus melakukan perhitungan manual.
-4. Aplikasi memberikan informasi terkait kategori BMI, seperti apakah berat badan pengguna termasuk kurang, ideal, atau berlebih.
 
 # Fungsi Aplikasi BMI
 1. Aplikasi ini memiliki fitur utama untuk menghitung BMI berdasarkan data tinggi dan berat badan yang dimasukkan oleh pengguna.
 2. Berdasarkan hasil perhitungan, aplikasi mengelompokkan BMI pengguna ke dalam beberapa kategori, seperti underweight, normal, overweight, dan obesity.
 3. Aplikasi memberikan rekomendasi dan saran gaya hidup atau pola makan yang sesuai dengan kategori BMI pengguna.
-3. Pengguna dapat menyimpan hasil perhitungan BMI untuk memantau perubahan dari waktu ke waktu.
-4. Menyediakan antarmuka yang intuitif, sehingga pengguna dapat dengan mudah memasukkan data, melihat hasil, dan mendapatkan informasi yang relevan.
 
 # Tim Developer
 1.	Lana Zelda Savitri Santoso	 (23050974018)
