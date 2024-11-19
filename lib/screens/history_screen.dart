@@ -170,13 +170,15 @@ class _HistoryScreenState extends State<HistoryScreen> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 _buildInfoRow(Icons.cake,
-                                    'Umur: ${history[index]['age']}'),
+                                    'Umur : ${history[index]['age']}'),
+                                _buildInfoRow(Icons.transgender,
+                                    'Jenis Kelamin : ${history[index]['gender']}'), // Moved gender info here
                                 _buildInfoRow(Icons.fitness_center,
-                                    'BMI: ${history[index]['bmi'].toStringAsFixed(2)}'),
+                                    'BMI : ${history[index]['bmi'].toStringAsFixed(2)}'),
                                 _buildInfoRow(Icons.category,
-                                    'Kategori: ${history[index]['category']}'),
+                                    'Kategori : ${history[index]['category']}'),
                                 _buildInfoRow(Icons.thumb_up,
-                                    'Rekomendasi: ${history[index]['recommendation']}'),
+                                    'Rekomendasi : ${history[index]['recommendation']}'),
                               ],
                             ),
                             trailing: Checkbox(
