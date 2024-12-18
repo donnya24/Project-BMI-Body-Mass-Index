@@ -4,7 +4,7 @@
 https://drive.google.com/drive/folders/1laSp1b3RUGs8-2g5y8v9WuqX7y0B4C4N?usp=drive_link
 
 # Poster
-![Home](https://github.com/user-attachments/assets/7ad1677f-f61b-4558-9cd1-43be9a1ffe90)
+![POSTERR](https://github.com/user-attachments/assets/da8c9884-2cfd-475f-93a7-3890cba6376e)
 
 # Apa itu BMI Calculator ?
 Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghitung dan memahami indeks massa tubuh (BMI) mereka. Aplikasi ini memiliki berbagai fitur untuk memberikan pengalaman pengguna yang interaktif dan informatif.
